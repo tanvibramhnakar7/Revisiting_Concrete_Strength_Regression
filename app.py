@@ -101,4 +101,4 @@ if st.sidebar.button("🔮 Predict Concrete Strength"):
 # FOOTER
 # ---------------------------
 st.markdown("---")
-st.markdown("© 2025 Pratik Banarse | Machine Learning Streamlit App")
+st.markdown("© 2025 Tanvi Bramhnakar | Machine Learning Streamlit App")
