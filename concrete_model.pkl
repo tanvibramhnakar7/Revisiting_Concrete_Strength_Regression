@@ -1,2 +1,0 @@
-with open("concrete_model.pkl", "wb") as f:
-    pickle.dump((model, scaler), f)
