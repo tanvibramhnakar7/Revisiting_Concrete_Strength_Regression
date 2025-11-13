@@ -8,7 +8,7 @@ st.set_page_config(page_title="Concrete Strength Predictor", page_icon="🏗️"
 
 # ---- LOAD MODEL ----
 try:
-    with open("concrete_model.pkl", "rb") as f:
+    with open("concrete_model.pkl", "wb") as f:
         model, scaler = pickle.load(f)
     model_loaded = True
 except Exception as e:
