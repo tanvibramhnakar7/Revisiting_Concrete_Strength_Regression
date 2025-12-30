@@ -42,7 +42,7 @@ pickle.dump((model, scaler), open('concrete_model.pkl', 'wb'))
 ✅ Interactive UI built with Streamlit
 ✅ Predicts compressive strength instantly
 ✅ Easy-to-use input sliders and fields
-✅ Lightweight and deployable anywhere (e.g., Streamlit Cloud, Heroku)
+✅ Lightweight and deployable anywhere (e.g., Streamlit Cloud, Heroku).
 
 👤 Developer Info:
 Name: Tanvi Bramhnakar
